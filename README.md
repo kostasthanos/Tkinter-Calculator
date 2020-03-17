@@ -19,10 +19,10 @@ __**1st Row**__
 
 __**2nd Row**__  
 
-1. **sin** : Sine of an angle &theta in degrees (e.g. sin(90)=1)
-2. **cos** : Cosine of an angle &theta in degrees (e.g. cos(180)=-1)
-3. **tan** : Tangent of an angle &theta in degrees (e.g. tan(45)=1)
-4. **cot** : Cotangent of an angle &theta in degrees (e.g. cot(45) = 1/tan(45) = 1)
+1. **sin** : Sine of an angle &theta; in degrees (e.g. sin(90)=1)
+2. **cos** : Cosine of an angle &theta; in degrees (e.g. cos(180)=-1)
+3. **tan** : Tangent of an angle &theta; in degrees (e.g. tan(45)=1)
+4. **cot** : Cotangent of an angle &theta; in degrees (e.g. cot(45) = 1/tan(45) = 1)
 5. **π** : Archimedes' constant defined as the ratio of a circle's circumference to its diameter.  
 &nbsp; &nbsp; &nbsp; &nbsp;It is approximately equal to 3.14159
 
