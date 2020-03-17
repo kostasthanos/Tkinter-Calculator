@@ -53,7 +53,7 @@
 
 - **6th,7th,8th,9th Row**
 
-In these rows there are :  
+:pencil2: In these rows there are :  
 The basic number buttons (0 to 9)  
 The basic math symbols (operators) (+, -, *, /)  
 The equal sign (=)
