@@ -30,7 +30,7 @@
 
 - **3rd Row**  
 
-1. **$x^2$** : x raised to the power of 2 (e.g. 4^2 = 16)
+1. **x^2** : x raised to the power of 2 (e.g. 4^2 = 16)
 2. **x^3** : x raised to the power of 3 (e.g. 5^3 = 125)
 3. **x^n** : x raised to any power (e.g. 2^4 = 16 )
 4. **x^(-1)** : x raised to the power of (-1). The inverse of number x (e.g. 2^(-1) = 0.5)
