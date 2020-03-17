@@ -68,7 +68,7 @@ def trig_tan():
 
 def trig_cot():
     global calc_operator
-    result = str(math.cot(math.radians(int(calc_operator))))
+    result = str(1/math.tan(math.radians(int(calc_operator))))
     calc_operator = result
     text_input.set(result)
 
