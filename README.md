@@ -51,5 +51,12 @@
 4. **%** : Find the percentage of a number (e.g. 5% = 0.05)
 5. **e<sup>x</sup>** : Expotential function (e.g. e<sup>2</sup>=approx 7.389 )
 
+- **6th,7th,8th,9th Row**
+
+In these rows there are : 
+``* The basic number buttons (0 to 9)  
+``* The basic math symbols (operators) (+, -, *, /)  
+``* The equal sign (=)
+
 ## Author
 * **Konstantinos Thanos**
