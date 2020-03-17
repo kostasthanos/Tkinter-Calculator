@@ -3,12 +3,15 @@
 ### Scientific Calculator with Tkinter Python GUI
 
 <p align="center">
-   <img src="sci_calc.png">
+   <img src="imgs/sci_calc.png">
 </p>
 
 #### Some explanations for each button and the function which represents are the following
 
-- **1st Row**  
+- **1st Row**
+<p align="center">
+   <img src="1st_row.png">
+</p>
   
 1. **abs** : The absolute value of a number (e.g. abs(-5) = 5)
 2. **mod** : From *modulo* it's the operation to find the remainder of the division of one number by another.  
@@ -18,7 +21,10 @@
 4. **x!**  : The factorial of the number x (e.g. 4! = 24)
 5. **e**   : The Euler's number. A mathematical constant approximately equal to 2.71828.  
 
-- **2nd Row**  
+- **2nd Row**
+<p align="center">
+   <img src="2nd_row.png">
+</p>
 
 1. **sin** : Sine of an angle &theta; in degrees (e.g. sin(90)=1)
 2. **cos** : Cosine of an angle &theta; in degrees (e.g. cos(180)=-1)
@@ -27,7 +33,10 @@
 5. **π** : Archimedes' constant defined as the ratio of a circle's circumference to its diameter.  
 &nbsp; &nbsp; &nbsp; &nbsp;It is approximately equal to 3.14159
 
-- **3rd Row**  
+- **3rd Row**
+<p align="center">
+   <img src="3rd_row.png">
+</p>
 
 1. **x<sup>2</sup>** : x raised to the power of 2 (e.g. 4<sup>2</sup> = 16)
 2. **x<sup>3</sup>** : x raised to the power of 3 (e.g. 5<sup>3</sup> = 125)
@@ -35,7 +44,10 @@
 4. **x<sup>-1</sup>** : x raised to the power of (-1). The inverse of number x (e.g. 2<sup>-1</sup> = 0.5)
 5. **10<sup>x</sup>** : Powers of 10 (e.g. 10<sup>3</sup> = 1000)
 
-- **4th Row**  
+- **4th Row**
+<p align="center">
+   <img src="4th_row.png">
+</p>
 
 1. **<img src="https://render.githubusercontent.com/render/math?math=\sqrt[2]{}">** : Square root of a number (e.g. <img src="https://render.githubusercontent.com/render/math?math=\sqrt[2]{144}"> = 12)
 2. **<img src="https://render.githubusercontent.com/render/math?math=\sqrt[3]{}">** : Cube root of a number (e.g. <img src="https://render.githubusercontent.com/render/math?math=\sqrt[3]{8}"> = 2)
@@ -43,7 +55,10 @@
 4. **log<sub>10</sub>** : The logarithm of a number with base 10 (e.g. log<sub>10</sub>1000 = 3)
 5. **ln** : The logarithm of a number with base e (e.g. log<sub>e</sub>e = ln e = 1)
 
-- **5th Row**  
+- **5th Row**
+<p align="center">
+   <img src="5th_row.png">
+</p>
 
 1. **(** : Left parentheses
 2. **)** : Right parentheses
@@ -52,6 +67,9 @@
 5. **e<sup>x</sup>** : Expotential function (e.g. e<sup>2</sup>=approx 7.389 )
 
 - **6th,7th,8th,9th Row**
+<p align="center">
+   <img src="6789th_rows.png">
+</p>
 
 In these rows there are :  
 
