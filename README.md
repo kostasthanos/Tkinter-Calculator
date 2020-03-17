@@ -30,11 +30,11 @@
 
 - **3rd Row**  
 
-1. **x^2** : x raised to the power of 2 (e.g. 4^2 = 16)
-2. **x^3** : x raised to the power of 3 (e.g. 5^3 = 125)
-3. **x^n** : x raised to any power (e.g. 2^4 = 16 )
-4. **x^(-1)** : x raised to the power of (-1). The inverse of number x (e.g. 2^(-1) = 0.5)
-5. **10^x** : Powers of 10 (e.g. 10^3 = 1000)
+1. **x<sup>2</sup>** : x raised to the power of 2 (e.g. 4<sup>2</sup> = 16)
+2. **x<sup>3</sup>** : x raised to the power of 3 (e.g. 5<sup>3</sup> = 125)
+3. **x<sup>n</sup>** : x raised to any power (e.g. 2<sup>4</sup> = 16 )
+4. **x<sup>-1</sup>** : x raised to the power of (-1). The inverse of number x (e.g. 2<sup>-1</sup> = 0.5)
+5. **10<sup>x</sup>** : Powers of 10 (e.g. 10<sup>3</sup> = 1000)
 
 - **4th Row**  
 
