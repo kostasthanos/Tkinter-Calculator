@@ -39,7 +39,7 @@
 
 1. **<img src="https://render.githubusercontent.com/render/math?math=\sqrt[2]{}">** : Square root of a number (e.g. <img src="https://render.githubusercontent.com/render/math?math=\sqrt[2]{144}"> = 12)
 2. **<img src="https://render.githubusercontent.com/render/math?math=\sqrt[3]{}">** : Cube root of a number (e.g. <img src="https://render.githubusercontent.com/render/math?math=\sqrt[3]{8}"> = 2)
-3. **<img src="https://render.githubusercontent.com/render/math?math=\sqrt[]{}">** : Any root of a number (e.g. <img src="https://render.githubusercontent.com/render/math?math=\sqrt[4]{16}"> = 2)
+3. **<img src="https://render.githubusercontent.com/render/math?math=\sqrt[ ]{ }">** : Any root of a number (e.g. <img src="https://render.githubusercontent.com/render/math?math=\sqrt[4]{16}"> = 2)
 4. **log<sub>10</sub>** : The logarithm of a number with base 10 (e.g. log<sub>10</sub>1000 = 3)
 5. **ln** : The logarithm of a number with base e (e.g. log<sub>e</sub>e = ln e = 1)
 
