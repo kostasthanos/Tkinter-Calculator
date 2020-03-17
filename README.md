@@ -57,10 +57,10 @@ In these rows there are :
 
 -> The basic number buttons (0 to 9)  
 -> The basic math symbols (operators) (+, -, *, /)  
--> The equal sign (=) and point (.)
--> Button **DEL** to delete one or more from the end of the entry
--> Button **AC** to delete the whole entry
--> **EXP** : Multiply any number with powers of 10 (e.g. 2*10**3 = 2000)
+-> The equal sign (=) and point (.)  
+-> Button **DEL** to delete one or more from the end of the entry  
+-> Button **AC** to delete the whole entry  
+-> **EXP** : Multiply any number with powers of 10 (e.g. 2 * 10 ** 3 = 2000)  
 
 ## Author
 * **Konstantinos Thanos**
