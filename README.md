@@ -1,5 +1,4 @@
-# Dice Roller
-
+# Tkinter Calculator
 
 ### Scientific Calculator with Tkinter Python GUI
 
@@ -38,7 +37,7 @@
 
 - **4th Row**  
 
-1. ![squareroot](http://latex.codecogs.com/svg.latex?%5Cleft%28%5Csqrt%7Bx%7D%5Cright%29%5E2%20%3D%20x)
+1. \sqrt[2]{ }
 2.
 3.
 4.
