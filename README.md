@@ -53,10 +53,10 @@
 
 - **6th,7th,8th,9th Row**
 
-In these rows there are : 
-``* The basic number buttons (0 to 9)  
-``* The basic math symbols (operators) (+, -, *, /)  
-``* The equal sign (=)
+In these rows there are :  
+The basic number buttons (0 to 9)  
+The basic math symbols (operators) (+, -, *, /)  
+The equal sign (=)
 
 ## Author
 * **Konstantinos Thanos**
