@@ -10,7 +10,7 @@
 
 - **1st Row**
 <p align="center">
-   <img src="1st_row.png">
+   <img src="imgs/1st_row.png">
 </p>
   
 1. **abs** : The absolute value of a number (e.g. abs(-5) = 5)
@@ -23,7 +23,7 @@
 
 - **2nd Row**
 <p align="center">
-   <img src="2nd_row.png">
+   <img src="imgs/2nd_row.png">
 </p>
 
 1. **sin** : Sine of an angle &theta; in degrees (e.g. sin(90)=1)
@@ -35,7 +35,7 @@
 
 - **3rd Row**
 <p align="center">
-   <img src="3rd_row.png">
+   <img src="imgs/3rd_row.png">
 </p>
 
 1. **x<sup>2</sup>** : x raised to the power of 2 (e.g. 4<sup>2</sup> = 16)
@@ -46,7 +46,7 @@
 
 - **4th Row**
 <p align="center">
-   <img src="4th_row.png">
+   <img src="imgs/4th_row.png">
 </p>
 
 1. **<img src="https://render.githubusercontent.com/render/math?math=\sqrt[2]{}">** : Square root of a number (e.g. <img src="https://render.githubusercontent.com/render/math?math=\sqrt[2]{144}"> = 12)
@@ -57,7 +57,7 @@
 
 - **5th Row**
 <p align="center">
-   <img src="5th_row.png">
+   <img src="imgs/5th_row.png">
 </p>
 
 1. **(** : Left parentheses
@@ -68,7 +68,7 @@
 
 - **6th,7th,8th,9th Row**
 <p align="center">
-   <img src="6789th_rows.png">
+   <img src="imgs/6789th_rows.png">
 </p>
 
 In these rows there are :  
