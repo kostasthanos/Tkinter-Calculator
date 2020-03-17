@@ -37,7 +37,7 @@
 
 - **4th Row**  
 
-1. $\sqrt[2]{}$
+1. <img src="https://render.githubusercontent.com/render/math?math=\sqrt[2]{}">
 2.
 3.
 4.
