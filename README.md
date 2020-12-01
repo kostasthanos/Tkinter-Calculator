@@ -71,7 +71,7 @@
    <img src="imgs/6789th_rows.png">
 </p>
 
-In these rows there are :  
+In these rows are :  
 
 -> The basic number buttons (0 to 9).  
 -> The basic math symbols (operators) (+, -, *, /).  
