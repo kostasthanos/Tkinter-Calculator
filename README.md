@@ -62,7 +62,7 @@
 
 1. **(** : Left parenthesis.
 2. **)** : Right parenthesis.
-3. **<img src="https://render.githubusercontent.com/render/math?math=\pm">** : Change the sighn of a number.
+3. **<img src="https://render.githubusercontent.com/render/math?math=\pm">** : Change the sign of a number.
 4. **%** : Find the percentage of a number (e.g. 5% = 0.05).
 5. **e<sup>x</sup>** : Expotential function (e.g. e<sup>2</sup>=approx 7.389 ).
 
