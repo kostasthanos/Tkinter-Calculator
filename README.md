@@ -13,6 +13,8 @@
    <img src="imgs/1st_row.png">
 </p>
 
+| command | meaning |
+| ... |  ... |
 | abs | The absolute value of a number (e.g. abs(-5) = 5) | 
 | mod | From modulo. it's the operation to find the remainder of the division of one number by another | 
                 In python we use the symbol % (e.g. 5mod2 = 5%2 = 1) | 
