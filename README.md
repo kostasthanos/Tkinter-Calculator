@@ -14,7 +14,7 @@
 </p>
   
 1. **abs** : The absolute value of a number (e.g. abs(-5) = 5).
-2. **mod** : From *modulo* it's the operation to find the remainder of the division of one number by another.  
+2. **mod** : From *modulo*. it's the operation to find the remainder of the division of one number by another.  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  In python we use the symbol %  (e.g. 5mod2 = 5%2 = 1).  
 3. **div** : Floor division returns the result of the division rounded down to the nearest integer.  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  In python we use the symbol //  (e.g. 8div3 = 8//3 = 2).
