@@ -12,17 +12,6 @@
 <p align="center">
    <img src="imgs/1st_row.png">
 </p>
-
-| command | meaning |
-| ... |  ... |
-| abs | The absolute value of a number (e.g. abs(-5) = 5) | 
-| mod | From modulo. it's the operation to find the remainder of the division of one number by another | 
-                In python we use the symbol % (e.g. 5mod2 = 5%2 = 1) | 
-| div | Floor division returns the result of the division rounded down to the nearest integer | 
-              In python we use the symbol // (e.g. 8div3 = 8//3 = 2) | 
-|  x! | The factorial of the number x (e.g. 4! = 24) | 
-|   e | The Euler's number. A mathematical constant approximately equal to 2.71828 | 
-
   
 1. **abs** : The absolute value of a number (e.g. abs(-5) = 5).
 2. **mod** : From *modulo*. it's the operation to find the remainder of the division of one number by another.  
