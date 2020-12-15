@@ -1,6 +1,6 @@
 # Tkinter Calculator
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}]
 ### Scientific Calculator using Python's library Tkinter 
 
 <p align="center">
