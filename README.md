@@ -51,7 +51,7 @@
 
 1. **<sup>2</sup>√** : Square root of a number (e.g. <sup>2</sup>√144 = 12).
 2. **<sup>3</sup>√** : Cube root of a number (e.g. <sup>3</sup>√8 = 2).
-3. **√**  : Any root of a number (e.g. 4√16 = 2).
+3. **√**  : Any root of a number (e.g. <sup>4</sup>√16 = 2).
 4. **log<sub>10</sub>** : The logarithm of a number with base 10 (e.g. log<sub>10</sub>1000 = 3).
 5. **ln** : The logarithm of a number with base e (e.g. log<sub>e</sub>e = ln e = 1).
 
